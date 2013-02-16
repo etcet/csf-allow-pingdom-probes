@@ -1,0 +1,2 @@
+csf-allow-pingdom-probes
+========================
